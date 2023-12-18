@@ -48,8 +48,8 @@ if (typeof $response == "undefined") {
       break;
     case infoUrl.test(url):
       chxm1023["reg_days"] = 99999;
-      chxm1023["name"] = "叮当猫の分享频道";
-      chxm1023["avatar"] = "https://raw.githubusercontent.com/chxm1023/Script_X/main/icon/ddm.png";
+      chxm1023["name"] = "甲壳羊";
+      chxm1023["avatar"] = "https://avatars.githubusercontent.com/u/987610";
       break;
     }
   chxm1024.body = JSON.stringify(chxm1023);
